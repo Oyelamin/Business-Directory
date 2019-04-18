@@ -1,0 +1,26 @@
+.form-section{
+    background:url('../img/auth2.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:800px;
+    background-attachment: fixed;
+}
+.form-section .box{
+    width:60%;
+    margin:auto;
+}
+
+.logo{
+    font-size:40px;
+    font-weight:bolder;
+}
+.logo span{
+    color:green;
+    margin-right:6px;
+}
+nav{
+    box-shadow:4px 4px 40px black;
+}
+.form-section .box .input{
+    border-top:1px solid blue:
+}
